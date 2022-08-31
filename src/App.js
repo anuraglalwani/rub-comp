@@ -16,8 +16,8 @@ function App() {
          {/* <Chart />  */}
         
         {/* </div>   */}
-        {/* <Map/>  */}
-        <Source/>
+         <Map/>  
+       {/* <Source/> */}
      
     </div>
   );
